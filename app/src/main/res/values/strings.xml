@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hayakuchi</string>
+
+    <string name="sample_text">じゅげむ　じゅげむ　ごこうのすりきれ　かいじゃりすいぎょの　すいぎょうまつ　うんらいまつ　ふうらいまつ　くうねるところにすむところ　やぶらこうじのぶらこうじ　ぱいぽ　ぱいぽ　ぱいぽのしゅーりんがん　しゅーりんがんのぐーりんだい　ぐーりんだいのぽんぽこぴーの　ぽんぽこなーの　ちょうきゅうめいのちょうすけ</string>
+    <string name="btn_fast">達人</string>
+    <string name="btn_normal">普通</string>
+    <string name="btn_slow">簡単</string>
+    <string name="hint">ここに早口言葉を入力してください</string>
+</resources>
